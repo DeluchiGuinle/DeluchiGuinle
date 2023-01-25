@@ -41,7 +41,7 @@ Considered a calm and objective person. I am currently studying technical educat
 <a href="#"  target="_blank"><img src="https://img.shields.io/badge/-SqlServer-white?style=for-the-badge&logo=microsoftsqlserver&logoColor=black" alt="MySql"/></a>                                        
 <a href="#"  target="_blank"><img src="https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Booststrap"/></a>                                       
 <a href="#"  target="_blank"><img src="https://img.shields.io/badge/-PHP-%2300C4CC?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>    
-<a href="#"  target="_blank"><img src="https://img.shields.io/badge/laravel-orange?style=for-the-badge&logo=laravel&logoColor=white" alt="PHP"/></a>                                
+<a href="#"  target="_blank"><img src="https://img.shields.io/badge/laravel-orange?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/></a>                                
             
               
   
@@ -59,6 +59,9 @@ Considered a calm and objective person. I am currently studying technical educat
     
 <div align="center">
     
-![furry-protogen](https://user-images.githubusercontent.com/98788821/209613380-c02479b3-5bd5-44ed-8e28-7e0339abe5c6.gif)
+<img src="https://user-images.githubusercontent.com/123118063/214448772-412da56b-8b63-452e-81f0-5325043a6303.png"/>
+    
+<img src="https://user-images.githubusercontent.com/123118063/214448817-38ffcef5-dcec-413c-9cd0-d7f8c89accec.png"/>
+
 
 </div>
