@@ -59,9 +59,9 @@ Considered a calm and objective person. I am currently studying technical educat
     
 <div align="center">
     
-<img src="https://user-images.githubusercontent.com/123118063/214448772-412da56b-8b63-452e-81f0-5325043a6303.png"/>
+<img src="https://user-images.githubusercontent.com/123118063/214448772-412da56b-8b63-452e-81f0-5325043a6303.png" hwight="570" width="570"/>
     
-<img src="https://user-images.githubusercontent.com/123118063/214448817-38ffcef5-dcec-413c-9cd0-d7f8c89accec.png"/>
+<img src="https://user-images.githubusercontent.com/123118063/214448817-38ffcef5-dcec-413c-9cd0-d7f8c89accec.png" height="570" width="570"/>
 
 
 </div>
