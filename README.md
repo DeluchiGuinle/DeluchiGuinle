@@ -44,9 +44,7 @@ Considered a calm and objective person. I am currently studying technical educat
 <a href="#"  target="_blank"><img src="https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Booststrap"/></a>                                       
 <a href="#"  target="_blank"><img src="https://img.shields.io/badge/-PHP-%2300C4CC?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>    
 <a href="#"  target="_blank"><img src="https://img.shields.io/badge/laravel-orange?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/></a>                                
-            
-              
-  
+   
 </div>
 
 ## Links
@@ -54,6 +52,8 @@ Considered a calm and objective person. I am currently studying technical educat
 <div align="center">
     
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-deluchi-777715254/)
+    
+<img src="https://user-images.githubusercontent.com/123118063/214740613-cd3ef472-987a-4098-b890-3428028f13a4.gif" height="285" width="285"/>
 
 </div>   
     
@@ -61,6 +61,6 @@ Considered a calm and objective person. I am currently studying technical educat
     
 <div align="center">
     
-<img src="https://user-images.githubusercontent.com/123118063/214448772-412da56b-8b63-452e-81f0-5325043a6303.png" hwight="370" width="370"/>
+<img src="https://user-images.githubusercontent.com/123118063/214448772-412da56b-8b63-452e-81f0-5325043a6303.png" height="370" width="370"/>
 
 </div>
