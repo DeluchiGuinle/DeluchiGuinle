@@ -1,7 +1,6 @@
 
 # Hi, I'm DeluchiOtsutsuki!
 [![Blog](https://img.shields.io/badge/Portfolio_Deluchi_Otsutsuki-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://deluchiotsutsuki.github.io/Sobre-mim//)
-
 #
 
 <div align="center">
@@ -18,8 +17,8 @@ Considered a calm and objective person. I am currently studying technical educat
 
 <div align="center">
     <a href="https://github.com/DeluchiOtsutsuki">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DeluchiOtsutsuki&layout=compact&langs_count=7&theme=codeSTACKr&theme=graywhite"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeluchiOtsutsuki&show_icons=true&theme=graywhite"/>
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DeluchiOtsutsuki&layout=compact&langs_count=7&theme=codeSTACKr&theme=graywhite"/> <br>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeluchiOtsutsuki&show_icons=true&theme=graywhite"/> <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeluchiOtsutsuki&theme=graywhite"/>
 </div>
   
