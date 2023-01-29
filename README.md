@@ -2,6 +2,11 @@
 [![Blog](https://img.shields.io/badge/Portfolio_Deluchi_Otsutsuki-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://deluchiotsutsuki.github.io/Sobre-mim//)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-deluchi-777715254/)
 
+<p align="center">
+  Visitor Count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p>
+
 #
 
 <div align="center">
