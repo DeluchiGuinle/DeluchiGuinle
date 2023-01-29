@@ -2,10 +2,9 @@
 [![Blog](https://img.shields.io/badge/Portfolio_Deluchi_Otsutsuki-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://deluchiotsutsuki.github.io/Sobre-mim//)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-deluchi-777715254/)
 
-<p align="center">
-  Visitor Count<br>
-  <img src="https://profile-counter.glitch.me/deluchiotsutsuki/count.svg" />
-</p>
+<a href="https://github.com/deluchiotsutsuki/github-profile-views-counter">
+    <img src="https://deluchiotsutsuki.github.io/Sobre-mim//ghpvc/?username=deluchiotsutsuki&style=for-the-badge">
+</a>
 
 #
 
@@ -69,4 +68,4 @@ Considered a calm and objective person. I am currently studying technical educat
 ![Blog](https://img.shields.io/badge/@_Deluchi_Otsutsuki-000000?style=for-the-badge&logo=About.me&logoColor=white)
 
 </div>
- 
+  
