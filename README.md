@@ -3,7 +3,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-deluchi-777715254/)
 
 <a href="https://github.com/deluchiotsutsuki/github-profile-views-counter">
-    <img src="https://deluchiotsutsuki.github.io/Sobre-mim//ghpvc/?username=deluchiotsutsuki&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=deluchiotsutsuki&style=for-the-badge">
 </a>
 
 #
@@ -17,7 +17,7 @@
 </div>
 
 ## About Me ![furry](https://user-images.githubusercontent.com/98788821/209613851-2c554bb7-4571-4322-b7c3-1e34ca111dd1.gif) 
-Considered a calm and objective person. I am currently studying technical education in computer science.
+<b>Considered a calm and objective person. I am currently studying technical education in computer science.</b>
 
 <div align="center">
 <a href="https://github.com/DeluchiOtsutsuki">
