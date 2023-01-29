@@ -1,6 +1,8 @@
 
-# Hi, I'm DeluchiOtsutsuki!
+## Hi, I'm DeluchiOtsutsuki!
 [![Blog](https://img.shields.io/badge/Portfolio_Deluchi_Otsutsuki-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://deluchiotsutsuki.github.io/Sobre-mim//)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-deluchi-777715254/)
+
 #
 
 <div align="center">
@@ -53,8 +55,6 @@ Considered a calm and objective person. I am currently studying technical educat
 ## Links
 
 <div align="center">
-    
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-deluchi-777715254/)
     
 <img src="https://user-images.githubusercontent.com/123118063/214740613-cd3ef472-987a-4098-b890-3428028f13a4.gif" height="285" width="285"/>
 
