@@ -1,4 +1,3 @@
-
 ## Hi, I'm DeluchiOtsutsuki!
 [![Blog](https://img.shields.io/badge/Portfolio_Deluchi_Otsutsuki-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://deluchiotsutsuki.github.io/Sobre-mim//)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-deluchi-777715254/)
@@ -13,22 +12,19 @@
     
 </div>
 
-
 ## About Me ![furry](https://user-images.githubusercontent.com/98788821/209613851-2c554bb7-4571-4322-b7c3-1e34ca111dd1.gif) 
 Considered a calm and objective person. I am currently studying technical education in computer science.
 
 <div align="center">
-    <a href="https://github.com/DeluchiOtsutsuki">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DeluchiOtsutsuki&layout=compact&langs_count=7&theme=codeSTACKr&theme=graywhite"/> <br>
+<a href="https://github.com/DeluchiOtsutsuki">
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DeluchiOtsutsuki&layout=compact&langs_count=7&theme=codeSTACKr&theme=graywhite"/> <br>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeluchiOtsutsuki&show_icons=true&theme=graywhite"/> <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeluchiOtsutsuki&theme=graywhite"/>
 </div>
   
- 
 ## Skills ![furry-dog](https://user-images.githubusercontent.com/98788821/209614966-decb7a0e-03fe-425a-837d-cd511d6197ee.gif) 
 
 <div align="center">
-
  
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/></a>
@@ -44,21 +40,12 @@ Considered a calm and objective person. I am currently studying technical educat
     
 <div align="center">
     
-<a href="#"  target="_blank"><img src="https://img.shields.io/badge/-Ruby-darkred?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"/></a>             <a href="#"  target="_blank"><img src="https://img.shields.io/badge/-MySql-yellow?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql"/></a>
+<a href="#"  target="_blank"><img src="https://img.shields.io/badge/-Ruby-darkred?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"/></a>             <a href="#"  target="_blank"><img src="https://img.shields.io/badge/-MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql"/></a>
 <a href="#"  target="_blank"><img src="https://img.shields.io/badge/-SqlServer-white?style=for-the-badge&logo=microsoftsqlserver&logoColor=black" alt="MySql"/></a>                                        
-<a href="#"  target="_blank"><img src="https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Booststrap"/></a>                                       
-<a href="#"  target="_blank"><img src="https://img.shields.io/badge/-PHP-%2300C4CC?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>    
-<a href="#"  target="_blank"><img src="https://img.shields.io/badge/laravel-orange?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/></a>                                
-   
+<a href="#"  target="_blank"><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Booststrap"/></a>                                       
+<a href="#"  target="_blank"><img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>    
+<a href="#"  target="_blank"><img src="https://img.shields.io/badge/-Laravel-orange?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/></a>                                  
 </div>
-
-## Links
-
-<div align="center">
-    
-<img src="https://user-images.githubusercontent.com/123118063/214740613-cd3ef472-987a-4098-b890-3428028f13a4.gif" height="285" width="285"/>
-
-</div>   
     
 ---
     
@@ -67,3 +54,14 @@ Considered a calm and objective person. I am currently studying technical educat
 <img src="https://user-images.githubusercontent.com/123118063/214448772-412da56b-8b63-452e-81f0-5325043a6303.png" height="370" width="370"/>
 
 </div>
+    
+---
+
+<div align="right">
+    
+<h3>Autor:</h3>
+    
+![Blog](https://img.shields.io/badge/@_Deluchi_Otsutsuki-000000?style=for-the-badge&logo=About.me&logoColor=white)
+
+</div>
+ 
