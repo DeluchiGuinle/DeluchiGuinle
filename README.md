@@ -1,6 +1,6 @@
 
 # Hi, I'm DeluchiOtsutsuki!
-[![Blog](https://img.shields.io/badge/Portfolio_Deluchi-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://deluchiotsutsuki.github.io/Sobre-mim//)
+[![Blog](https://img.shields.io/badge/Portfolio_Deluchi_Otsutsuki-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://deluchiotsutsuki.github.io/Sobre-mim//)
 
 #
 
