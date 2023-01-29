@@ -58,14 +58,3 @@
 <img src="https://user-images.githubusercontent.com/123118063/214448772-412da56b-8b63-452e-81f0-5325043a6303.png" height="370" width="370"/>
 
 </div>
-    
----
-
-<div align="right">
-    
-<h3>Autor:</h3>
-    
-![Blog](https://img.shields.io/badge/@_Deluchi_Otsutsuki-000000?style=for-the-badge&logo=About.me&logoColor=white)
-
-</div>
-  
