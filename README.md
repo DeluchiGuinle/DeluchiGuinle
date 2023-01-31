@@ -44,11 +44,11 @@
     
 <div align="center">
     
-<a href="#"  target="_blank"><img src="https://img.shields.io/badge/-Ruby-darkred?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"/></a>             <a href="#"  target="_blank"><img src="https://img.shields.io/badge/-MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql"/></a>
-<a href="#"  target="_blank"><img src="https://img.shields.io/badge/-SqlServer-white?style=for-the-badge&logo=microsoftsqlserver&logoColor=black" alt="MySql"/></a>                                        
-<a href="#"  target="_blank"><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Booststrap"/></a>                                       
-<a href="#"  target="_blank"><img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>    
-<a href="#"  target="_blank"><img src="https://img.shields.io/badge/-Laravel-orange?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/></a>                                  
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Ruby-darkred?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"/></a>             <a href="#" target="_blank"><img src="https://img.shields.io/badge/-MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-SqlServer-white?style=for-the-badge&logo=microsoftsqlserver&logoColor=black" alt="MySql"/></a>                                        
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Booststrap"/></a>                                       
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>    
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Laravel-orange?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/></a>                                  
 </div>
     
 ---
