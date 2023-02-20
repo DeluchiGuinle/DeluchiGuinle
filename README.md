@@ -39,7 +39,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeluchiOtsutsuki&theme=graywhite"/>
 </div>
   
-## Skills ![furry-dog](https://user-images.githubusercontent.com/98788821/209614966-decb7a0e-03fe-425a-837d-cd511d6197ee.gif) 
+## ⚙️ Technologies and Skills ![furry-dog](https://user-images.githubusercontent.com/98788821/209614966-decb7a0e-03fe-425a-837d-cd511d6197ee.gif) 
 
 <div align="center">
  
