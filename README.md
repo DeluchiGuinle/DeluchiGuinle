@@ -65,7 +65,9 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="Terminal" alt="Terminal" width="40" height="40"/>&nbsp;
 </div>
  
-</div>          
+</div> 
+  
+---
 
 ## 📚 Learning ![furry-dance-furry](https://user-images.githubusercontent.com/98788821/209615112-def0ac3e-2067-4dfb-bb32-7fb4bdf52bdb.gif) 
     
@@ -81,7 +83,9 @@
 </div>
     
 ---
-    
+  
+## 🏆 My GitHub and My Inspiration for this Repository 
+  
 <div align="center">
     
 <img src="https://user-images.githubusercontent.com/123118063/214448772-412da56b-8b63-452e-81f0-5325043a6303.png" height="370" width="370"/>
