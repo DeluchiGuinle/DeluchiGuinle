@@ -52,6 +52,8 @@
 <a href="https://www.canva.com/" target="_blank"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="visual studio code"/></a> 
   
+  
+  
   ### My stack and tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -74,7 +76,8 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-SqlServer-white?style=for-the-badge&logo=microsoftsqlserver&logoColor=black" alt="MySql"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Booststrap"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>    
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Laravel-orange?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/></a>                                  
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Laravel-orange?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/></a>               
+       
 </div>
     
 ---
