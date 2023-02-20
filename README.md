@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
-  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Otsutsuki+and+Welcome+to+my+Profile!" alt="Hey, I'm Otsutsuki and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
+  <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>
   <h1>
     Hey there, I'm DeluchiOtsutsuki!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -25,7 +26,7 @@
     
 </div>
 
-##  ### :technologist: About Me ![furry](https://user-images.githubusercontent.com/98788821/209613851-2c554bb7-4571-4322-b7c3-1e34ca111dd1.gif) 
+##  ### 👨‍💻 About Me ![furry](https://user-images.githubusercontent.com/98788821/209613851-2c554bb7-4571-4322-b7c3-1e34ca111dd1.gif) 
 <b>Considered a calm and objective person. I am currently studying technical education in computer science.</b>
 
  🌐 Languages: English, Italian, Portuguese (Brazilian).
@@ -64,13 +65,14 @@
  
 </div>          
 
-## Learning ![furry-dance-furry](https://user-images.githubusercontent.com/98788821/209615112-def0ac3e-2067-4dfb-bb32-7fb4bdf52bdb.gif) 
+## 📚 Learning ![furry-dance-furry](https://user-images.githubusercontent.com/98788821/209615112-def0ac3e-2067-4dfb-bb32-7fb4bdf52bdb.gif) 
     
 <div align="center">
     
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Ruby-darkred?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"/></a>             <a href="#" target="_blank"><img src="https://img.shields.io/badge/-MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/-SqlServer-white?style=for-the-badge&logo=microsoftsqlserver&logoColor=black" alt="MySql"/></a>                                        
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Booststrap"/></a>                                       
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Ruby-darkred?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"/></a>             
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-SqlServer-white?style=for-the-badge&logo=microsoftsqlserver&logoColor=black" alt="MySql"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Booststrap"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>    
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Laravel-orange?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/></a>                                  
 </div>
