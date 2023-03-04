@@ -84,19 +84,12 @@
     
 ---
   
-## 🏆 My GitHub and My Inspiration for this Repository 
-  
-<div align="center">
-    
-<img src="https://user-images.githubusercontent.com/123118063/214448772-412da56b-8b63-452e-81f0-5325043a6303.png" height="370" width="370"/>
-
-</div>
-    
+## 🏆 My GitHub
 <div align="right">
     
  Autor: <br> DeluchiUchiha
     
-   Inspired by: https://github.com/BrunaFusiger/BrunaFusiger
+ Inspired by: https://github.com/BrunaFusiger/BrunaFusiger
     
 </div>
     
