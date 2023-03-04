@@ -3,11 +3,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Uchiha+and+Welcome+to+my+Profile!" alt="Hey, I'm Uchiha and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>
   <h1>
-    Hey there, I'm DeluchiUchiha!
+    Hey there, I'm DeluchiOtsutsuki!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
  
-[![Blog](https://img.shields.io/badge/Portfolio_Deluchi_Uchiha-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://deluchiotsutsuki.github.io/Sobre-mim//)
+[![Blog](https://img.shields.io/badge/Portfolio_Deluchi_Otsutsuki-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://deluchiotsutsuki.github.io/Sobre-mim//)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-deluchi-777715254/)
 
 <a href="https://github.com/deluchiotsutsuki/github-profile-views-counter">
