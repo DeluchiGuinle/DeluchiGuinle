@@ -94,7 +94,7 @@
     
 <div align="right">
     
- Autor: <br> DeluchiOtsutsuki
+ Autor: <br> DeluchiUchiha
     
    Inspired by: https://github.com/BrunaFusiger/BrunaFusiger
     
