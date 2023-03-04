@@ -26,7 +26,7 @@
     
 </div>
 
-##  ### 👨‍💻 About Me ![furry](https://user-images.githubusercontent.com/98788821/209613851-2c554bb7-4571-4322-b7c3-1e34ca111dd1.gif) 
+## 👨‍💻 About Me ![furry](https://user-images.githubusercontent.com/98788821/209613851-2c554bb7-4571-4322-b7c3-1e34ca111dd1.gif) 
 <b>Considered a calm and objective person. I am currently studying technical education in computer science.</b>
 
  🌐 Languages: English, Italian, Portuguese (Brazilian).
