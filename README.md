@@ -10,7 +10,7 @@
 [![Blog](https://img.shields.io/badge/Portfolio_Deluchi_Otsutsuki-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://deluchiotsutsuki.github.io/Sobre-mim//)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-deluchi-777715254/)
 
-<a href="https://github.com/deluchiotsutsuki/github-profile-views-counter">
+<a href="https://github.com/deluchiuchiha/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=deluchiotsutsuki&style=for-the-badge">
 </a>
 
