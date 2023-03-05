@@ -7,11 +7,11 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
  
-[![Blog](https://img.shields.io/badge/Portfolio_Deluchi_Otsutsuki-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://deluchiotsutsuki.github.io/Sobre-mim//)
+[![Blog](https://img.shields.io/badge/Portfolio_Deluchi_Guinle-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://deluchiotsutsuki.github.io/Sobre-mim//)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-deluchi-777715254/)
 
-<a href="https://github.com/deluchiotsutsuki/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=deluchiotsutsuki&style=for-the-badge">
+<a href="https://github.com/deluchiguinle/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=deluchiguinle&style=for-the-badge">
 </a>
 
 </div>
@@ -34,10 +34,10 @@
 ---
 
 <div align="center">
-<a href="https://github.com/DeluchiOtsutsuki">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeluchiOtsutsuki&show_icons=true&theme=graywhite"/> <br>
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DeluchiOtsutsuki&layout=compact&langs_count=7&theme=codeSTACKr&theme=graywhite"/> <br> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeluchiOtsutsuki&theme=graywhite"/>
+<a href="https://github.com/DeluchiGuinle">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeluchiGuinle&show_icons=true&theme=graywhite"/> <br>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DeluchiGuinle&layout=compact&langs_count=7&theme=codeSTACKr&theme=graywhite"/> <br> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeluchiGuinle&theme=graywhite"/>
 </div>
   
 ## ⚙️ Technologies and Skills ![furry-dog](https://user-images.githubusercontent.com/98788821/209614966-decb7a0e-03fe-425a-837d-cd511d6197ee.gif) 
@@ -87,7 +87,7 @@
 ## 🏆 My GitHub
 <div align="right">
     
- Autor: <br> DeluchiUchiha
+ Autor: <br> DeluchiGuinle
     
  Inspired by: https://github.com/BrunaFusiger/BrunaFusiger
     
