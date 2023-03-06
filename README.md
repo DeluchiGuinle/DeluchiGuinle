@@ -1,6 +1,5 @@
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/123118063/222907495-f032f161-5a5e-42d7-b752-6a173ff41aaf.jpeg" height="370" width="370"/>
-  <img src="https://user-images.githubusercontent.com/123118063/220505119-643c904e-3649-4d47-b576-f56a30e6c473.png" height="50" width="570/>
+  <img src="https://user-images.githubusercontent.com/123118063/222907495-f032f161-5a5e-42d7-b752-6a173ff41aaf.jpeg" height="370" width="370"/> <br>
   
   <h1>
     Hey there, I'm DeluchiOtsutsuki!
@@ -84,6 +83,9 @@
 ---
   
 ## 🏆 My GitHub and Inspired:
+  
+<img src="https://user-images.githubusercontent.com/123118063/220505119-643c904e-3649-4d47-b576-f56a30e6c473.png"/>
+  
 <div align="right">
     
  Inspired by: https://github.com/BrunaFusiger/BrunaFusiger
