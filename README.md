@@ -33,7 +33,7 @@
 
 <div align="center">
 <a href="https://github.com/DeluchiGuinle">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeluchiRockfeller&show_icons=true&theme=graywhite"/> <br>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeluchiGuinle&show_icons=true&theme=graywhite"/> <br>
 <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DeluchiGuinle&layout=compact&langs_count=7&theme=codeSTACKr&theme=graywhite"/> <br> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeluchiGuinle&theme=graywhite"/>
 </div>
@@ -82,10 +82,8 @@
     
 ---
   
-## 🏆 My GitHub
+## 🏆 My GitHub and Inspired:
 <div align="right">
-    
- Autor: <br> DeluchiGuinle
     
  Inspired by: https://github.com/BrunaFusiger/BrunaFusiger
     
