@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/123118063/222907495-f032f161-5a5e-42d7-b752-6a173ff41aaf.jpeg" height="370" width="370"/>
   <h1>
-    Hey there, I'm DeluchiUchiha!
+    Hey there, I'm DeluchiOtsutsuki!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
  
@@ -33,8 +33,8 @@
 
 <div align="center">
 <a href="https://github.com/DeluchiGuinle">
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DeluchiGuinle&layout=compact&langs_count=7&theme=codeSTACKr&theme=graywhite"/> <br> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeluchiGuinle&theme=graywhite"/> <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeluchiGuinle&theme=graywhite"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DeluchiGuinle&layout=compact&langs_count=7&theme=codeSTACKr&theme=graywhite"/>
 <img src="https://github-readme-stats.vercel.app/api?username=deluchiguinle&show_icons=true&theme=graywhite">
 </div>
   
