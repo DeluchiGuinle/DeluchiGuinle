@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/123118063/222907495-f032f161-5a5e-42d7-b752-6a173ff41aaf.jpeg" height="370" width="370"/> <br>
   
   <h1>
-    Hey there, I'm DeluchiOtsutsuki!
+    Hey there, I'm DeluchiGuinle!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
  
