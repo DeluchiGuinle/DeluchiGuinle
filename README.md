@@ -34,8 +34,8 @@
 
 <div align="center">
 <a href="https://github.com/DeluchiGuinle">
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DeluchiGuinle&layout=compact&langs_count=7&theme=codeSTACKr&theme=graywhite"/>
-<img src="https://github-readme-stats.vercel.app/api?username=deluchiguinle&show_icons=true&theme=graywhite">
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DeluchiGuinle&layout=compact&langs_count=7&theme=codeSTACKr&theme=gradiente"/>
+<img src="https://github-readme-stats.vercel.app/api?username=deluchiguinle&show_icons=true&theme=gradiente">
 </div>
   
 ## ⚙️ Technologies and Skills ![furry-dog](https://user-images.githubusercontent.com/98788821/209614966-decb7a0e-03fe-425a-837d-cd511d6197ee.gif) 
